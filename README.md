@@ -3,11 +3,10 @@
 ### Redes sociais.
 ```bash
 
-> Whatsapp: +55 98 9214-9806
 > Youtube: @zenitsu_yt014
 > Email: israelalexandre014@gmail.com
-> Roblox: ArthurSecond124YT
-> Discord: secondeduardo
+> Roblox: dudupromax123
+> Discord: dub_.eduardo
 
 ```
 ### Links de lá.
