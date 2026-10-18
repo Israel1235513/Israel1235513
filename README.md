@@ -11,7 +11,6 @@
 ```
 ### Links de lá.
 ## [Youtube](https://www.youtube.com/channel/UCF12aSqE9fhY7riXmRXbtmQ)
-## [Whatsapp](https://api.whatsapp.com/send/?phone=%2B559892149806&text&type=phone_number&app_absent=0)  <img src="https://github.com/appicons/Whatsapp/blob/master/icons/whatsapp_194x194.png" width="29px">
 ## [Email](mailto:israelalexandre014@gmail.com?subject=Ol%C3%A1%20Eduardo)
 ## [Roblox](https://www.roblox.com/users/2944597488/profile)
 
@@ -19,24 +18,20 @@
 
 ```bash
 
-> Sou uma criança, tenho 10 anos, Meu nome é Eduardo.
+> Sou um adolescente, tenho 13 anos, Meu nome é Eduardo.
 > Gosto jogar roblox.
-> Estou aprendendo programação.
-> Criando bots de whatsapp.
-> Sou muito ativo poder chamar em qualquer um (Email não sou muito ativo) que eu respondo.
+> Sou programador. 
+> Criando scripts pro roblox.
 ```
 <p align='center'>
 
-## Jogos que jogo.
-| Jogos | 🎮 | 
-|------------ | ---------|
-| Roblox | ✔️ |
-| Minecraft | ✔️ |
-| Free Fire | ✔️ |
-| Fortnite | ❌ |
-| GTA | ❌ |
-| COD| ✔️ |
-| PUBG | ❌ |
-| Dota 2 | ❌ |
-| CSGO 2 | ✔️ |
-| Undertale | ✔️ |
+## Linguagens de Programação que eu sei. 
+
+```bash
+> C#, C++
+> Python, Javascript
+> HTML, CSS
+> NodeJS, React Native
+
+```
+<p align='center'>
